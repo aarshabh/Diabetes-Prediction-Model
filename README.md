@@ -1,1 +1,1 @@
-# Diabetes-Hypertension-and-Stroke-Prediction-Model
+# Diabetes-Prediction-Model
