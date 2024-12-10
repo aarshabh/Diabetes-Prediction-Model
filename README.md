@@ -99,8 +99,6 @@ Decision Tree Accuracy: 0.7162 Naïve Bayes Accuracy: 0.7225
 
 Classification Report: ![](Aspose.Words.85723a22-ecdf-401a-a0a4-ad026a9bfa94.006.png)
 
-Class Model  Precision Recall F1-Score Support 0.0  Decision Tree 0.78  0.61  0.68  7090 0.0  Naïve Bayes  0.72  0.72  0.72  7090 1.0  Decision Tree 0.68  0.83  0.74  7049 1.0  Naïve Bayes  0.72  0.72  0.72  7049 
-
 Averages: 
 
 |Average |Model |Precision|` `Recall|` `F1-Score|
